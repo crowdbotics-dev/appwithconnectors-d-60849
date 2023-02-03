@@ -64,7 +64,7 @@ const styles = StyleSheet.create({
   RlRdgfwR: {
     width: 100,
     height: 23,
-    lineHeight: 14,
+    lineHeight: 20,
     fontSize: 20,
     borderRadius: 0,
     position: "absolute",
