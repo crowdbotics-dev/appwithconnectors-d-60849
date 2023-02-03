@@ -6,7 +6,8 @@ const Untitled2 = ({
   route
 }) => {
   const {
-    secret = "No secret available"
+    info = "default",
+    secret = "default value"
   } = route.params || {};
   return <SafeAreaView style={styles.safeArea}>
         <ScrollView contentContainerStyle={{
