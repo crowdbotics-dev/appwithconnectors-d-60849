@@ -18,7 +18,7 @@ const Untitled10 = ({
     }}>
         
           <View style={styles.column1}><Text style={styles.QFLzkePL}>Amazing App</Text></View>
-          <View style={styles.column2}><Pressable onPress={() => navigation.navigation.navigate("Untitled2", {
+          <View style={styles.column2}><Pressable onPress={() => navigation.navigate("Untitled2", {
           "secret": "This is my secret"
         })}><View style={styles.goqPwGtU}><Text style={styles.RlRdgfwR}>Continue</Text></View></Pressable></View>
           
